@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ankit Singhal!
 - 👀 I’m interested in deep learning research projects that have tangible social impacts.
-- 🌱 I’m currently working with Python (Tensorflow, PyTorch, Jupyter Notebooks, etc.) and R (Tensorflow, ggplot, etc.).
+- 🌱 I’m currently working primarily with Python (Tensorflow, PyTorch, Jupyter Notebooks, etc.), R (Tensorflow, ggplot, etc.), and C++ (MLPACK, ROOT, etc.).
 - 📫 You can reach out to me by emailing: editor@articlefourteen.org.
 
 <!---
